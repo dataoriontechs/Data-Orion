@@ -1,0 +1,6 @@
+{
+  "name": "Data Orion Tech",
+  "description": "Site institucional moderno e profissional para a Data Orion Tech, com foco em tecnologia, sistemas sob medida e inteligência de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
